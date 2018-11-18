@@ -1,0 +1,4 @@
+Source  : http://opengameart.org/content/space-skyboxes-0
+License : CC0 1.0
+Accessed: October 7, 2016
+Notes   : The files have been renamed and resized. No additional changes have been made.

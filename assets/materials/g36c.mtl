@@ -1,0 +1,23 @@
+# Blender MTL File: 'g36c.blend'
+# Material Count: 2
+
+newmtl Material
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.016302 0.016302 0.016302
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\skyri\AppData\Local\Temp\Temp1_46042_H_amp_K_G36C_low_poly.zip\G36c.gif.jpg
+
+newmtl Material_NONE
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.016302 0.016302 0.016302
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
